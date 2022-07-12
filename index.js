@@ -13,7 +13,7 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://drive.google.com/file/d/1-1DJZEr6bgnxlfbWaiDv0Rz324paf2SV/view"
+        "image": "https://drive.google.com/uc?export=view&id=16wkVixtHKAl5adobLKhMUMZ-dl4JNyu0"
     },
 
     {
