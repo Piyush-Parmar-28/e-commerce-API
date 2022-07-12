@@ -13,13 +13,13 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
+        "image": "https://drive.google.com/uc?export=view&id=1-1DJZEr6bgnxlfbWaiDv0Rz324paf2SV"
     },
 
     {
         "id": "2",
         "category": "Electronics",
-        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
+        "image": "https://drive.google.com/uc?export=view&id=1ZofgtVwb61DW2NbYz23BmMKgTQFTANCw"
     },
 
     {
@@ -31,13 +31,13 @@ var categories= [
     {
         "id": "4",
         "category": "Home Appliances",
-        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
+        "image": "https://drive.google.com/uc?export=view&id=1isqZSFjh6c7W5rpZpp-TELYYSn7RXwJ1"
     },
 
     {
         "id": "5",
         "category": "Mobiles",
-        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
+        "image": "https://drive.google.com/uc?export=view&id=164YzqCE3upSJtew5W7JKVVgskRtnaxv3"
     },
 
     {
@@ -49,7 +49,7 @@ var categories= [
     {
         "id": "7",
         "category": "Vehicles",
-        "image": "https://drive.google.com/uc?export=view&id=1b6m5fI8TnEIxh8YObrZQ-uW2NVbx_YEb"
+        "image": "https://drive.google.com/uc?export=view&id=1LNqzbyrgunwM-rjCNdGQmqDsuw80CX9A"
     },
 
     {
@@ -61,13 +61,13 @@ var categories= [
     {
         "id": "9",
         "category": "Movies",
-        "image": "https://drive.google.com/uc?export=view&id=164YzqCE3upSJtew5W7JKVVgskRtnaxv3"
+        "image": "https://drive.google.com/uc?export=view&id=1bbjxtBPJwKjAYh49mQOVG4TP5uO1Yrip"
     },
 
     {
         "id": "10",
         "category": "Sports",
-        "image": "https://drive.google.com/uc?export=view&id=1bbjxtBPJwKjAYh49mQOVG4TP5uO1Yrip"
+        "image": "https://drive.google.com/uc?export=view&id=1LTRvKx4oBkg7xzjKAxg3xpWRDash79_g"
     }
 ]
 
