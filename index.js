@@ -8,16 +8,65 @@ var data= {
 }
 
 var categories= [
-    "Fashion",
-    "Electronics", 
-    "Books",
-    "Home Appliances",
-    "Mobiles",
-    "Sports",
-    "Toys",
-    "Vehicles",
-    "Baby Products",
-    "Movies"
+    {
+        "id": "1",
+        "category": "Fashion",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "2",
+        "category": "Electronics",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "3",
+        "category": "Books",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "4",
+        "category": "Home Appliances",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "5",
+        "category": "Mobiles",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "6",
+        "category": "Toys",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "7",
+        "category": "Vehicles",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "8",
+        "category": "Baby Products",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "9",
+        "category": "Movies",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    },
+
+    {
+        "id": "10",
+        "category": "Sports",
+        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+    }
 ]
 
 var cDetails= [
