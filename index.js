@@ -55,7 +55,7 @@ var categories= [
     {
         "id": "8",
         "category": "Baby Products",
-        "image": "https://drive.google.com/file/d/16wkVixtHKAl5adobLKhMUMZ-dl4JNyu0/view"
+        "image": "https://drive.google.com/uc?export=view&id=16wkVixtHKAl5adobLKhMUMZ-dl4JNyu0"
     },
 
     {
