@@ -13,61 +13,61 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1548666986-81912b883425?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGZhc2hpb24lMjAxKjF8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "2",
         "category": "Electronics",
-        "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1570841512619-7204069cf2e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGVsZWN0cm9uaWNzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "3",
         "category": "Books",
-        "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1471970471555-19d4b113e9ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3N8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "4",
         "category": "Home Appliances",
-        "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZSUyMGFwcGxpYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1615529017597-d8ede38b6cad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZSUyMGFwcGxpYW5jZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "5",
         "category": "Mobiles",
-        "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW9iaWxlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "6",
         "category": "Toys",
-        "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1581557991964-125469da3b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG95c3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "7",
         "category": "Vehicles",
-        "image": "https://images.unsplash.com/photo-1607122885807-f6d6547778ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHZlaGljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1638305478857-814a36e4f73c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHZlaGljbGVzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "8",
         "category": "Baby Products",
-        "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFieSUyMHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFieSUyMHRveXN8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "9",
         "category": "Movies",
-        "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1608889825146-c9276dc26bdc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW92aWVzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "10",
         "category": "Sports",
-        "image": "https://images.unsplash.com/photo-1569074187119-c87815b476da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNwb3J0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1599982946086-eb42d9e14eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNwb3J0c3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
     }
 ]
 
