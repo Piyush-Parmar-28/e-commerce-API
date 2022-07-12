@@ -13,43 +13,43 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://drive.google.com/uc?export=view&id=16wkVixtHKAl5adobLKhMUMZ-dl4JNyu0"
+        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
     },
 
     {
         "id": "2",
         "category": "Electronics",
-        "image": "https://drive.google.com/file/d/1ZofgtVwb61DW2NbYz23BmMKgTQFTANCw/view"
+        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
     },
 
     {
         "id": "3",
         "category": "Books",
-        "image": "https://drive.google.com/file/d/128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH/view"
+        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
     },
 
     {
         "id": "4",
         "category": "Home Appliances",
-        "image": "https://drive.google.com/file/d/1isqZSFjh6c7W5rpZpp-TELYYSn7RXwJ1/view"
+        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
     },
 
     {
         "id": "5",
         "category": "Mobiles",
-        "image": "https://drive.google.com/file/d/164YzqCE3upSJtew5W7JKVVgskRtnaxv3/view"
+        "image": "https://drive.google.com/uc?export=view&id=128LtPYhKHHftiIBZdhjiLkMGkGd8C7gH"
     },
 
     {
         "id": "6",
         "category": "Toys",
-        "image": "https://drive.google.com/file/d/1b6m5fI8TnEIxh8YObrZQ-uW2NVbx_YEb/view"
+        "image": "https://drive.google.com/uc?export=view&id=1b6m5fI8TnEIxh8YObrZQ-uW2NVbx_YEb"
     },
 
     {
         "id": "7",
         "category": "Vehicles",
-        "image": "https://drive.google.com/file/d/1LNqzbyrgunwM-rjCNdGQmqDsuw80CX9A/view"
+        "image": "https://drive.google.com/uc?export=view&id=1b6m5fI8TnEIxh8YObrZQ-uW2NVbx_YEb"
     },
 
     {
@@ -61,13 +61,13 @@ var categories= [
     {
         "id": "9",
         "category": "Movies",
-        "image": "https://drive.google.com/file/d/1bbjxtBPJwKjAYh49mQOVG4TP5uO1Yrip/view"
+        "image": "https://drive.google.com/uc?export=view&id=164YzqCE3upSJtew5W7JKVVgskRtnaxv3"
     },
 
     {
         "id": "10",
         "category": "Sports",
-        "image": "https://drive.google.com/file/d/1LTRvKx4oBkg7xzjKAxg3xpWRDash79_g/view"
+        "image": "https://drive.google.com/uc?export=view&id=1bbjxtBPJwKjAYh49mQOVG4TP5uO1Yrip"
     }
 ]
 
