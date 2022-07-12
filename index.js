@@ -43,7 +43,7 @@ var categories= [
     {
         "id": "6",
         "category": "Toys",
-        "image": "https://images.unsplash.com/photo-1581557991964-125469da3b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG95c3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dG95c3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
@@ -67,7 +67,7 @@ var categories= [
     {
         "id": "10",
         "category": "Sports",
-        "image": "https://images.unsplash.com/photo-1599982946086-eb42d9e14eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNwb3J0c3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1552209841-d2dc5fd68a30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BvcnRzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     }
 ]
 
