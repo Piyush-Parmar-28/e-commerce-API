@@ -11,61 +11,61 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "2",
         "category": "Electronics",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "3",
         "category": "Books",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "4",
         "category": "Home Appliances",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZSUyMGFwcGxpYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "5",
         "category": "Mobiles",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "6",
         "category": "Toys",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dG95c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "7",
         "category": "Vehicles",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1607122885807-f6d6547778ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHZlaGljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "8",
         "category": "Baby Products",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFieSUyMHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "9",
         "category": "Movies",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fG1vdmllfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
         "id": "10",
         "category": "Sports",
-        "image": "https://rukminim1.flixcart.com/image/714/857/l3hmwsw0/t-shirt/2/v/g/l-723-2-4-5-6-ftx-original-imagehzttyk82rfg.jpeg?q=50"
+        "image": "https://images.unsplash.com/photo-1569074187119-c87815b476da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNwb3J0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
     }
 ]
 
