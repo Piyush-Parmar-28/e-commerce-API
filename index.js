@@ -1,6 +1,8 @@
 var express= require("express")
+var cors= require("cors")
 
 var app= express()
+app.use(cors())
 const port = process.env.PORT || 8080
 
 var data= {
