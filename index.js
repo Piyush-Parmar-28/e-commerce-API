@@ -13,7 +13,7 @@ var categories= [
     {
         "id": "1",
         "category": "Fashion",
-        "image": "https://images.unsplash.com/photo-1552323356-322f06b49db4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZHJlc3N8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        "image": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZHJlc3N8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
     },
 
     {
