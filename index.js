@@ -584,26 +584,19 @@ var offers= [
     {
         "id": "12",
         "category": "Electronics",
-        "item": "TV",
-        "image": "https://drive.google.com/uc?export=view&id=1ehtx6n0XXlAKaunKCzeVrRAnXtdLQ_lj"
+        "item": "Washing Machine",
+        "image": "https://drive.google.com/uc?export=view&id=19iY9hGP9GIDLTqakDa21bvV1g0OKewhc"
     },
 
     {
         "id": "13",
-        "category": "Electronics",
-        "item": "Washing Machine",
-        "image": "https://drive.google.com/uc?export=view&id=17s7fyP31Qx6bkfkxY0yk8agO6GxhdF6X"
-    },
-
-    {
-        "id": "14",
         "category": "Toys",
         "item": "Teddy",
         "image": "https://drive.google.com/uc?export=view&id=1WGdEsejvJCXclBfb0YOy6iJnZ3d3E3G9"
     },
 
     {
-        "id": "15",
+        "id": "14",
         "category": "Toys",
         "item": "Train Set",
         "image": "https://drive.google.com/uc?export=view&id=1uKuoabhbH9PmzB9mX8vLbj0ZPRCqKNwN"
@@ -611,7 +604,7 @@ var offers= [
 
     
     {
-        "id": "16",
+        "id": "15",
         "category": "Home Appliances",
         "item": "Oven",
         "image": "https://drive.google.com/uc?export=view&id=1GZz9uDpvOcGnNV7y3ZTOEzpZ-eRuKgGn"
