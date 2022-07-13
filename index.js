@@ -503,6 +503,121 @@ var movies= [
     }
 ]
 
+var offers= [
+    {
+        "id": "1",
+        "category": "Sports",
+        "item": "Ball",
+        "image": "https://drive.google.com/uc?export=view&id=1RgUdlusR1XussLd7ka00jRQ1L9HgTzrd"
+    },
+
+    {
+        "id": "2",
+        "category": "Sports",
+        "item": "Tennis Set",
+        "image": "https://drive.google.com/uc?export=view&id=1LcP6euXqIbZNsiKzzSQp-wC_iUUyYJwb"
+    },
+
+    {
+        "id": "3",
+        "category": "Books",
+        "item": "Fairy Tale Book",
+        "image": "https://drive.google.com/uc?export=view&id=1vyWff5jlYP2QtL_eBGDRxtSe5bZQRqoP"
+    },
+
+    {
+        "id": "4",
+        "category": "Vehicles",
+        "item": "Cycle",
+        "image": "https://drive.google.com/uc?export=view&id=1i1Y7R7VhyIfOAg2Z20fQDP3dj8DOPCFd"
+    },
+
+    {
+        "id": "5",
+        "category": "Fashion",
+        "item": "Jacket",
+        "image": "https://drive.google.com/uc?export=view&id=1h2Szd1WbXqS6lw4GFEjCvXbaz6B6CtIq"
+    },
+
+    {
+        "id": "6",
+        "category": "Fashion",
+        "item": "Shoes",
+        "image": "https://drive.google.com/uc?export=view&id=1DhrTuASAJZYtosEUj6Q1NNmjqfFxrbz1"
+    },
+
+    {
+        "id": "7",
+        "category": "Electronics",
+        "item": "Laptop",
+        "image": "https://drive.google.com/uc?export=view&id=1d81N-naNuVWzoYbOgXCO9hPUi0Z3OOTP"
+    },
+
+    {
+        "id": "8",
+        "category": "Electronics",
+        "item": "Mobile",
+        "image": "https://drive.google.com/uc?export=view&id=1kqZNEXKDOv5GC6Ld2DGWgyn4DimDClpx"
+    },
+
+    {
+        "id": "9",
+        "category": "Electronics",
+        "item": "Smart Watch",
+        "image": "https://drive.google.com/uc?export=view&id=1NpBVO2H2JAJAhr7Ip-_8pX3jCti87PEn"
+    },
+    
+    {
+        "id": "10",
+        "category": "Electronics",
+        "item": "Smart Watch",
+        "image": "https://drive.google.com/uc?export=view&id=1ehtx6n0XXlAKaunKCzeVrRAnXtdLQ_lj"
+    },
+
+    {
+        "id": "11",
+        "category": "Electronics",
+        "item": "Speakers",
+        "image": "https://drive.google.com/uc?export=view&id=1ih3-30Xb1h6DuN8-gPxfz6t9OHhMmXjT"
+    },
+
+    {
+        "id": "12",
+        "category": "Electronics",
+        "item": "TV",
+        "image": "https://drive.google.com/uc?export=view&id=1ehtx6n0XXlAKaunKCzeVrRAnXtdLQ_lj"
+    },
+
+    {
+        "id": "13",
+        "category": "Electronics",
+        "item": "Washing Machine",
+        "image": "https://drive.google.com/uc?export=view&id=17s7fyP31Qx6bkfkxY0yk8agO6GxhdF6X"
+    },
+
+    {
+        "id": "14",
+        "category": "Toys",
+        "item": "Teddy",
+        "image": "https://drive.google.com/uc?export=view&id=1WGdEsejvJCXclBfb0YOy6iJnZ3d3E3G9"
+    },
+
+    {
+        "id": "15",
+        "category": "Toys",
+        "item": "Train Set",
+        "image": "https://drive.google.com/uc?export=view&id=1uKuoabhbH9PmzB9mX8vLbj0ZPRCqKNwN"
+    },
+
+    
+    {
+        "id": "16",
+        "category": "Home Appliances",
+        "item": "Oven",
+        "image": "https://drive.google.com/uc?export=view&id=1GZz9uDpvOcGnNV7y3ZTOEzpZ-eRuKgGn"
+    }
+]
+
 app.get("/", (req, res) =>{
     console.log("Server running");
     res.json(data)
@@ -554,6 +669,10 @@ app.get("/category/baby", (req, res) =>{
 
 app.get("/category/movies", (req, res) =>{
     res.json(movies)
+})
+
+app.get("/offers", (req, res) =>{
+    res.json(offers)
 })
 
 app.listen(port)
