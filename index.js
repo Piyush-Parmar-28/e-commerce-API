@@ -508,42 +508,42 @@ var offers= [
         "id": "1",
         "category": "Sports",
         "item": "Ball",
-        "image": "https://drive.google.com/uc?export=view&id=1RgUdlusR1XussLd7ka00jRQ1L9HgTzrd"
+        "image": "https://drive.google.com/uc?export=view&id=1xf55e2ONTzqNAONk_9oAwRzAQRffPYTt"
     },
 
     {
         "id": "2",
         "category": "Sports",
         "item": "Tennis Set",
-        "image": "https://drive.google.com/uc?export=view&id=1LcP6euXqIbZNsiKzzSQp-wC_iUUyYJwb"
+        "image": "https://drive.google.com/uc?export=view&id=1c5mwo8FLJ3oTIaS9eUvOaBMsLrsvbX8B"
     },
 
     {
         "id": "3",
         "category": "Books",
         "item": "Fairy Tale Book",
-        "image": "https://drive.google.com/uc?export=view&id=1vyWff5jlYP2QtL_eBGDRxtSe5bZQRqoP"
+        "image": "https://drive.google.com/uc?export=view&id=1jvtAN9DX_nikA6itB5a5yu1sb6BRlKw7"
     },
 
     {
         "id": "4",
         "category": "Vehicles",
         "item": "Cycle",
-        "image": "https://drive.google.com/uc?export=view&id=1i1Y7R7VhyIfOAg2Z20fQDP3dj8DOPCFd"
+        "image": "https://drive.google.com/uc?export=view&id=1N_fLeasYFKRhemoP-llwWSMGVpYcdxzy"
     },
 
     {
         "id": "5",
         "category": "Fashion",
         "item": "Jacket",
-        "image": "https://drive.google.com/uc?export=view&id=1h2Szd1WbXqS6lw4GFEjCvXbaz6B6CtIq"
+        "image": "https://drive.google.com/uc?export=view&id=1eWVRg4zC4sZMH1QX9-FYA6Mwb6O5q5mR"
     },
 
     {
         "id": "6",
         "category": "Fashion",
         "item": "Shoes",
-        "image": "https://drive.google.com/uc?export=view&id=1DhrTuASAJZYtosEUj6Q1NNmjqfFxrbz1"
+        "image": "https://drive.google.com/uc?export=view&id=1wBImLarlHByXNHzBupGqj-FaZZHEDSx-"
     },
 
     {
@@ -557,49 +557,49 @@ var offers= [
         "id": "8",
         "category": "Electronics",
         "item": "Mobile",
-        "image": "https://drive.google.com/uc?export=view&id=1kqZNEXKDOv5GC6Ld2DGWgyn4DimDClpx"
+        "image": "https://drive.google.com/uc?export=view&id=1ncCXyIs0duvO1F0Q45j4uehmWmxNSwHf"
     },
 
     {
         "id": "9",
         "category": "Electronics",
         "item": "Smart Watch",
-        "image": "https://drive.google.com/uc?export=view&id=1NpBVO2H2JAJAhr7Ip-_8pX3jCti87PEn"
+        "image": "https://drive.google.com/uc?export=view&id=1cSgHSEg9M0TkhHNCddrliF7tVZuEMVcR"
     },
     
     {
         "id": "10",
         "category": "Electronics",
-        "item": "Smart Watch",
-        "image": "https://drive.google.com/uc?export=view&id=1ehtx6n0XXlAKaunKCzeVrRAnXtdLQ_lj"
+        "item": "TV",
+        "image": "https://drive.google.com/uc?export=view&id=1-KmclQA-E4EODCJHx7GZ9fNyzHVc97Xu"
     },
 
     {
         "id": "11",
         "category": "Electronics",
         "item": "Speakers",
-        "image": "https://drive.google.com/uc?export=view&id=1ih3-30Xb1h6DuN8-gPxfz6t9OHhMmXjT"
+        "image": "https://drive.google.com/uc?export=view&id=1xUkghQydtKJLxY0LCvnAP-ZaEbQzPtyA"
     },
 
     {
         "id": "12",
         "category": "Electronics",
         "item": "Washing Machine",
-        "image": "https://drive.google.com/uc?export=view&id=19iY9hGP9GIDLTqakDa21bvV1g0OKewhc"
+        "image": "https://drive.google.com/uc?export=view&id=1zsdaNh_bLZItGcBlVRpGSXx0wJobnZvf"
     },
 
     {
         "id": "13",
         "category": "Toys",
         "item": "Teddy",
-        "image": "https://drive.google.com/uc?export=view&id=1WGdEsejvJCXclBfb0YOy6iJnZ3d3E3G9"
+        "image": "https://drive.google.com/uc?export=view&id=1wpJXeav_Ur9-zIM8Rr2abuNp2I1ve854"
     },
 
     {
         "id": "14",
         "category": "Toys",
         "item": "Train Set",
-        "image": "https://drive.google.com/uc?export=view&id=1uKuoabhbH9PmzB9mX8vLbj0ZPRCqKNwN"
+        "image": "https://drive.google.com/uc?export=view&id=1f5R5oMMtXK5bA2RmM_SfKqXalEPhq6r-"
     },
 
     
@@ -607,7 +607,7 @@ var offers= [
         "id": "15",
         "category": "Home Appliances",
         "item": "Oven",
-        "image": "https://drive.google.com/uc?export=view&id=1GZz9uDpvOcGnNV7y3ZTOEzpZ-eRuKgGn"
+        "image": "https://drive.google.com/uc?export=view&id=1xu4Qk2gfyvgdS2fuALlH-I9xllCgzJct"
     }
 ]
 
